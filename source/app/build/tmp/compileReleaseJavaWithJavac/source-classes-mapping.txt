@@ -1,0 +1,8 @@
+com/powerappsportals/saicappr/twa/DelegationService.java
+ com.powerappsportals.saicappr.twa.DelegationService
+com/powerappsportals/saicappr/twa/Application.java
+ com.powerappsportals.saicappr.twa.Application
+com/powerappsportals/saicappr/twa/LauncherActivity.java
+ com.powerappsportals.saicappr.twa.LauncherActivity
+com/powerappsportals/saicappr/twa/BuildConfig.java
+ com.powerappsportals.saicappr.twa.BuildConfig
