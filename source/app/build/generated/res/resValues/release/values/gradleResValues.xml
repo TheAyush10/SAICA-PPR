@@ -4,7 +4,7 @@
     <!-- Automatically generated file. DO NOT MODIFY -->
 
     <!-- Value from default config. -->
-    <string name="appName" translatable="false">SAICA Portal</string>
+    <string name="appName" translatable="false">SAICA Merge Portal</string>
     <!-- Value from default config. -->
     <color name="backgroundColor">#3476C8</color>
     <!-- Value from default config. -->
@@ -26,7 +26,7 @@
     <!-- Value from default config. -->
     <string name="launchUrl" translatable="false">https://saicappr.powerappsportals.com/</string>
     <!-- Value from default config. -->
-    <string name="launcherName" translatable="false">SAICA Portal</string>
+    <string name="launcherName" translatable="false">SAICA Merge Portal</string>
     <!-- Value from default config. -->
     <color name="navigationColor">#000000</color>
     <!-- Value from default config. -->

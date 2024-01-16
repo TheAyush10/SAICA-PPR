@@ -24,8 +24,8 @@ def twaManifest = [
     applicationId: 'com.powerappsportals.saicappr.twa',
     hostName: 'saicappr.powerappsportals.com', // The domain being opened in the TWA.
     launchUrl: '/', // The start path for the TWA. Must be relative to the domain.
-    name: 'SAICA Portal', // The application name.
-    launcherName: 'SAICA Portal', // The name shown on the Android Launcher.
+    name: 'SAICA Merge Portal', // The application name.
+    launcherName: 'SAICA Merge Portal', // The name shown on the Android Launcher.
     themeColor: '#000000', // The color used for the status bar.
     themeColorDark: '#000000', // The color used for the dark status bar.
     navigationColor: '#000000', // The color used for the navigation bar.

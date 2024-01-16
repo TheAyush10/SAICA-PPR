@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "com.powerappsportals.saicappr.twa",
-        "sha256_cert_fingerprints": ["D7:41:20:67:78:C2:25:C8:39:AB:0F:A1:28:35:1A:F4:72:EA:DA:62:4E:35:F7:75:F0:BF:95:32:6F:55:5F:D6"]
+        "sha256_cert_fingerprints": ["DA:47:07:15:BA:73:C9:AE:3B:D9:38:04:F5:8A:FC:59:97:A1:21:72:75:78:AB:F0:6E:1A:CB:BA:7C:16:BC:54"]
       }
     }]
