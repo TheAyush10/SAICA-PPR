@@ -1,0 +1,4 @@
+#Tue Apr 16 15:17:16 IST 2024
+base.0=D\:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
