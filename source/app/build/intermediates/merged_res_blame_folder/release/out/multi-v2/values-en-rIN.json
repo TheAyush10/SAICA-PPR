@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/tmp/pwabuilder-cloudapk--19-3HUp256VsFcg/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rIN/values-en-rIN.xml",
+            "outputFile": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rIN/values-en-rIN.xml",
             "map": [
                 {
                     "source": "/root/.gradle/caches/transforms-2/files-2.1/e601daed4ba62929db8b322b2974c8f8/core-1.1.0/res/values-en-rIN/values-en-rIN.xml",

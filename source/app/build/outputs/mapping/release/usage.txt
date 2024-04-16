@@ -38,6 +38,7 @@ androidx.annotation.IntRange
 androidx.browser.customtabs.CustomTabColorSchemeParams$Builder:
     public androidx.browser.customtabs.CustomTabColorSchemeParams$Builder setSecondaryToolbarColor(int)
 androidx.browser.customtabs.CustomTabsSessionToken
+androidx.concurrent.futures.CallbackToFutureAdapter$Completer
 androidx.collection.SimpleArrayMap:
     public void <init>(int)
     public void <init>(androidx.collection.SimpleArrayMap)
@@ -47,7 +48,6 @@ androidx.collection.SimpleArrayMap:
     private static final boolean CONCURRENT_MODIFICATION_EXCEPTIONS
     private static final int BASE_SIZE
     private static final int CACHE_SIZE
-androidx.concurrent.futures.CallbackToFutureAdapter$Completer
 androidx.core.graphics.TypefaceCompat
 androidx.lifecycle.Lifecycle$Event
 androidx.browser.customtabs.CustomTabsServiceConnection:

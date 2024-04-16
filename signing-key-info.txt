@@ -1,9 +1,9 @@
 Keep this file and signing.keystore in a safe place. You'll need these files if you want to upload future versions of your PWA to the Google Play Store.
 
 Key store file: signing.keystore
-Key store password: nZWlvnzxR9UH
+Key store password: hgmc2ddmN4ie
 Key alias: my-key-alias
-Key password: btKmyB6z6enf
+Key password: mZYGQo1DD9nC
 Signer's full name: SAICA Merge Portal Admin
 Signer's organization: SAICA Merge Portal
 Signer's organizational unit: Engineering
