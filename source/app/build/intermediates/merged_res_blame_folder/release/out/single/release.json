@@ -1,78 +1,154 @@
 [
     {
-        "merged": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/build/intermediates/res/merged/release/drawable-hdpi_splash.png.flat",
-        "source": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/src/main/res/drawable-hdpi/splash.png"
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_notification_icon.png.flat",
-        "source": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/src/main/res/drawable-xxxhdpi/ic_notification_icon.png"
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/build/intermediates/res/merged/release/drawable-xhdpi_splash.png.flat",
-        "source": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/src/main/res/drawable-xhdpi/splash.png"
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/build/intermediates/res/merged/release/xml_filepaths.xml.flat",
-        "source": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/src/main/res/xml/filepaths.xml"
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\xml_shortcuts.xml.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\src\\main\\res\\xml\\shortcuts.xml"
     },
     {
-        "merged": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/build/intermediates/res/merged/release/drawable-mdpi_ic_notification_icon.png.flat",
-        "source": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/src/main/res/drawable-mdpi/ic_notification_icon.png"
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_splash.png.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\src\\main\\res\\drawable-xxxhdpi\\splash.png"
     },
     {
-        "merged": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/build/intermediates/res/merged/release/drawable-xxhdpi_splash.png.flat",
-        "source": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/src/main/res/drawable-xxhdpi/splash.png"
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_splash.png.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\src\\main\\res\\drawable-xxhdpi\\splash.png"
     },
     {
-        "merged": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/build/intermediates/res/merged/release/drawable-hdpi_ic_notification_icon.png.flat",
-        "source": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/src/main/res/drawable-hdpi/ic_notification_icon.png"
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_splash.png.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\src\\main\\res\\drawable-hdpi\\splash.png"
     },
     {
-        "merged": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_notification_icon.png.flat",
-        "source": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/src/main/res/drawable-xhdpi/ic_notification_icon.png"
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_splash.png.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\src\\main\\res\\drawable-mdpi\\splash.png"
     },
     {
-        "merged": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_notification_icon.png.flat",
-        "source": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/src/main/res/drawable-xxhdpi/ic_notification_icon.png"
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/build/intermediates/res/merged/release/xml_shortcuts.xml.flat",
-        "source": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/src/main/res/xml/shortcuts.xml"
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\raw_web_app_manifest.json.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\src\\main\\res\\raw\\web_app_manifest.json"
     },
     {
-        "merged": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/build/intermediates/res/merged/release/raw_web_app_manifest.json.flat",
-        "source": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/src/main/res/raw/web_app_manifest.json"
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_launcher_background.xml"
     },
     {
-        "merged": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/build/intermediates/res/merged/release/drawable-mdpi_splash.png.flat",
-        "source": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/src/main/res/drawable-mdpi/splash.png"
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_notification_icon.png.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_notification_icon.png"
     },
     {
-        "merged": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/build/intermediates/res/merged/release/drawable-xxxhdpi_splash.png.flat",
-        "source": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/src/main/res/drawable-xxxhdpi/splash.png"
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/build/intermediates/res/merged/release/drawable-anydpi_shortcut_legacy_background.xml.flat",
-        "source": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/src/main/res/drawable-anydpi/shortcut_legacy_background.xml"
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/tmp/pwabuilder-cloudapk--19-CvLL4e9BjweB/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_notification_icon.png.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\src\\main\\res\\drawable-hdpi\\ic_notification_icon.png"
+    },
+    {
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_notification_icon.png.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\src\\main\\res\\drawable-xhdpi\\ic_notification_icon.png"
+    },
+    {
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi_shortcut_legacy_background.xml.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\src\\main\\res\\drawable-anydpi\\shortcut_legacy_background.xml"
+    },
+    {
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_splash.png.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\src\\main\\res\\drawable-xhdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_notification_icon.png.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\src\\main\\res\\drawable-mdpi\\ic_notification_icon.png"
+    },
+    {
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_notification_icon.png.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\src\\main\\res\\drawable-xxhdpi\\ic_notification_icon.png"
+    },
+    {
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\xml_filepaths.xml.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\src\\main\\res\\xml\\filepaths.xml"
+    },
+    {
+        "merged": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Dynatech\\SAICA-PPR\\source\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_launcher_background.png"
     }
 ]

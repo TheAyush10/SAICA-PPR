@@ -4,8 +4,8 @@
 -keep class com.google.androidbrowserhelper.trusted.ManageDataLauncherActivity { <init>(); }
 -keep class com.google.androidbrowserhelper.trusted.NotificationPermissionRequestActivity { <init>(); }
 -keep class com.google.androidbrowserhelper.trusted.WebViewFallbackActivity { <init>(); }
--keep class com.powerappsportals.saicappr.twa.Application { <init>(); }
--keep class com.powerappsportals.saicappr.twa.DelegationService { <init>(); }
--keep class com.powerappsportals.saicappr.twa.LauncherActivity { <init>(); }
+-keep class com.powerappsportals.saicappr.twa1.Application { <init>(); }
+-keep class com.powerappsportals.saicappr.twa1.DelegationService { <init>(); }
+-keep class com.powerappsportals.saicappr.twa1.LauncherActivity { <init>(); }
 -keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(android.content.Context, android.util.AttributeSet); }
 

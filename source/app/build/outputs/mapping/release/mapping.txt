@@ -1,7 +1,7 @@
 # compiler: R8
 # compiler_version: 2.1.86
 # min_api: 19
-# pg_map_id: 7e6251a
+# pg_map_id: ece7693
 # common_typos_disable
 android.support.customtabs.ICustomTabsCallback -> a.a.a.a:
     void onPostMessage(java.lang.String,android.os.Bundle) -> c
@@ -892,5 +892,5 @@ com.google.androidbrowserhelper.trusted.splashscreens.SystemBarColorPredictor$1 
 com.google.androidbrowserhelper.trusted.splashscreens.SystemBarColorPredictor$SupportedFeatures -> com.google.androidbrowserhelper.trusted.z.f$b:
     boolean navbarColorCustomization -> a
     boolean colorSchemeCustomization -> b
-com.powerappsportals.saicappr.twa.LauncherActivity -> com.powerappsportals.saicappr.twa.LauncherActivity:
+com.powerappsportals.saicappr.twa1.LauncherActivity -> com.powerappsportals.saicappr.twa1.LauncherActivity:
     android.net.Uri getLaunchingUrl() -> g

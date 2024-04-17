@@ -4,6 +4,7 @@ androidx.lifecycle.ClassesInfoCache
 com.google.androidbrowserhelper.trusted.SharedPreferencesTokenStore:
     public void setVerifiedProvider(java.lang.String,android.content.pm.PackageManager)
     private static final java.lang.String KEY_TOKEN
+com.powerappsportals.saicappr.twa1.R$id
 androidx.core.os.ParcelableCompat
 androidx.browser.customtabs.CustomTabsSession:
     public static androidx.browser.customtabs.CustomTabsSession createMockSessionForTesting(android.content.ComponentName)
@@ -18,14 +19,13 @@ androidx.core.text.util.FindAddress
 androidx.core.view.OneShotPreDrawListener
 androidx.browser.trusted.splashscreens.SplashScreenVersion
 androidx.core.os.BuildCompat
-com.powerappsportals.saicappr.twa.R$attr
+com.powerappsportals.saicappr.twa1.R$dimen
 androidx.browser.trusted.TrustedWebActivityServiceConnectionPool
 androidx.annotation.Size
 androidx.browser.browseractions.BrowserServiceFileProvider
 androidx.core.view.MarginLayoutParamsCompat
 androidx.core.view.ActionProvider$VisibilityListener
 androidx.core.widget.NestedScrollView$OnScrollChangeListener
-com.powerappsportals.saicappr.twa.R$id
 androidx.browser.customtabs.CustomTabsService
 androidx.core.text.PrecomputedTextCompat$PrecomputedTextFutureTask
 androidx.annotation.ContentView
@@ -38,7 +38,6 @@ androidx.annotation.IntRange
 androidx.browser.customtabs.CustomTabColorSchemeParams$Builder:
     public androidx.browser.customtabs.CustomTabColorSchemeParams$Builder setSecondaryToolbarColor(int)
 androidx.browser.customtabs.CustomTabsSessionToken
-androidx.concurrent.futures.CallbackToFutureAdapter$Completer
 androidx.collection.SimpleArrayMap:
     public void <init>(int)
     public void <init>(androidx.collection.SimpleArrayMap)
@@ -48,6 +47,7 @@ androidx.collection.SimpleArrayMap:
     private static final boolean CONCURRENT_MODIFICATION_EXCEPTIONS
     private static final int BASE_SIZE
     private static final int CACHE_SIZE
+androidx.concurrent.futures.CallbackToFutureAdapter$Completer
 androidx.core.graphics.TypefaceCompat
 androidx.lifecycle.Lifecycle$Event
 androidx.browser.customtabs.CustomTabsServiceConnection:
@@ -64,9 +64,9 @@ androidx.core.view.accessibility.AccessibilityEventCompat
 androidx.core.accessibilityservice.AccessibilityServiceInfoCompat
 androidx.interpolator.view.animation.LookupTableInterpolator
 androidx.core.provider.FontsContractCompat$TypefaceResult
-com.powerappsportals.saicappr.twa.R$xml
 androidx.core.widget.ListViewCompat
 androidx.core.content.res.FontResourcesParserCompat
+com.powerappsportals.saicappr.twa1.R$attr
 androidx.core.R$dimen
 androidx.browser.trusted.TrustedWebActivityIntentBuilder:
     public androidx.browser.trusted.TrustedWebActivityIntentBuilder setDefaultColorSchemeParams(androidx.browser.customtabs.CustomTabColorSchemeParams)
@@ -173,7 +173,6 @@ androidx.versionedparcelable.VersionedParcelParcel:
     private static final java.lang.String TAG
 androidx.browser.trusted.TrustedWebActivityCallbackRemote:
     public void runExtraCallback(java.lang.String,android.os.Bundle)
-com.powerappsportals.saicappr.twa.R$color
 androidx.browser.browseractions.BrowserActionsFallbackMenuUi$BrowserActionsFallMenuUiListener
 androidx.core.widget.PopupMenuCompat
 androidx.lifecycle.FullLifecycleObserver
@@ -222,6 +221,7 @@ androidx.concurrent.futures.AbstractResolvableFuture$Failure$1
 androidx.annotation.InspectableProperty$FlagEntry
 androidx.core.app.ServiceCompat
 com.google.androidbrowserhelper.R
+com.powerappsportals.saicappr.twa1.R$color
 androidx.core.view.accessibility.AccessibilityNodeInfoCompat$RangeInfoCompat
 com.google.androidbrowserhelper.trusted.TwaProviderPicker:
     public void <init>()
@@ -270,6 +270,7 @@ androidx.core.content.ContextCompat:
     public static java.lang.String getSystemServiceName(android.content.Context,java.lang.Class)
     private static final java.lang.String TAG
 androidx.annotation.Dimension
+com.powerappsportals.saicappr.twa1.R$styleable
 androidx.core.widget.EdgeEffectCompat
 androidx.core.view.accessibility.AccessibilityViewCommand$SetSelectionArguments
 androidx.core.R$layout
@@ -318,9 +319,9 @@ androidx.annotation.CallSuper
 androidx.browser.browseractions.BrowserActionsFallbackMenuAdapter$1
 androidx.core.view.ViewPropertyAnimatorCompat$1
 androidx.core.telephony.mbms.MbmsHelper
-com.powerappsportals.saicappr.twa.R$layout
 androidx.core.view.inputmethod.InputContentInfoCompat$InputContentInfoCompatApi25Impl
 androidx.core.app.ShareCompat$IntentBuilder
+com.powerappsportals.saicappr.twa1.R$mipmap
 androidx.annotation.NonNull
 androidx.core.app.SharedElementCallback$OnSharedElementsReadyListener
 androidx.core.view.MenuCompat
@@ -340,6 +341,7 @@ androidx.browser.trusted.TrustedWebActivityService:
 androidx.core.view.GestureDetectorCompat$GestureDetectorCompatImplBase
 android.support.customtabs.IPostMessageService$Stub$Proxy
 androidx.collection.SparseArrayCompat
+com.powerappsportals.saicappr.twa1.R$bool
 androidx.core.widget.AutoSizeableTextView
 androidx.core.view.accessibility.AccessibilityViewCommand$SetProgressArguments
 androidx.browser.browseractions.BrowserActionsIntent
@@ -375,7 +377,6 @@ androidx.collection.LruCache
 androidx.annotation.RestrictTo
 androidx.core.provider.FontsContractCompat$FontInfo
 androidx.core.widget.NestedScrollView$SavedState
-com.powerappsportals.saicappr.twa.R$styleable
 androidx.lifecycle.FullLifecycleObserverAdapter:
     void <init>(androidx.lifecycle.FullLifecycleObserver)
     public void onStateChanged(androidx.lifecycle.LifecycleOwner,androidx.lifecycle.Lifecycle$Event)
@@ -425,7 +426,6 @@ androidx.core.view.DragStartHelper$1
 androidx.core.view.accessibility.AccessibilityManagerCompat$AccessibilityStateChangeListenerWrapper
 androidx.core.view.ViewCompat$OnUnhandledKeyEventListenerCompat
 androidx.core.app.JobIntentService$WorkEnqueuer
-com.powerappsportals.saicappr.twa.R$integer
 androidx.core.view.ViewParentCompat
 androidx.browser.trusted.ScreenOrientation$LockType
 androidx.core.hardware.fingerprint.FingerprintManagerCompat$AuthenticationResult
@@ -465,7 +465,6 @@ androidx.browser.trusted.TokenContents:
 androidx.annotation.RequiresApi
 androidx.concurrent.futures.AbstractResolvableFuture$AtomicHelper
 androidx.core.app.NotificationCompat$BigTextStyle
-com.powerappsportals.saicappr.twa.R$bool
 androidx.core.app.ActivityCompat$PermissionCompatDelegate:
     public abstract boolean onActivityResult(android.app.Activity,int,int,android.content.Intent)
 android.support.v4.os.ResultReceiver$MyRunnable
@@ -611,7 +610,6 @@ android.support.customtabs.ICustomTabsCallback$Stub$Proxy
 androidx.core.view.ViewCompat$4
 androidx.arch.core.internal.FastSafeIterableMap
 androidx.core.provider.FontsContractCompat$2
-com.powerappsportals.saicappr.twa.R$style
 androidx.core.content.pm.PackageInfoCompat
 androidx.annotation.CheckResult
 androidx.browser.customtabs.PostMessageService
@@ -749,7 +747,6 @@ androidx.core.content.res.GradientColorInflaterCompat$ColorStops
 com.google.androidbrowserhelper.BuildConfig
 androidx.core.app.ActivityRecreator$1
 androidx.arch.core.internal.SafeIterableMap$Entry
-com.powerappsportals.saicappr.twa.R$string
 androidx.browser.trusted.sharing.ShareTarget$FileFormField:
     static androidx.browser.trusted.sharing.ShareTarget$FileFormField fromBundle(android.os.Bundle)
     public static final java.lang.String KEY_NAME
@@ -759,10 +756,12 @@ androidx.core.view.ViewPropertyAnimatorCompat$2
 androidx.core.content.pm.ShortcutManagerCompat$1
 androidx.core.app.JobIntentService$CompatWorkItem
 androidx.core.text.TextDirectionHeuristicsCompat
+com.powerappsportals.saicappr.twa1.R$string
 android.support.customtabs.ICustomTabsService$Default
 androidx.annotation.Nullable
 androidx.browser.trusted.TrustedWebActivityServiceConnectionPool$BindToServiceAsyncTask
 androidx.browser.trusted.ScreenOrientation
+com.powerappsportals.saicappr.twa1.BuildConfig
 androidx.core.graphics.drawable.DrawableCompat:
     public static void jumpToCurrentState(android.graphics.drawable.Drawable)
     public static void setAutoMirrored(android.graphics.drawable.Drawable,boolean)
@@ -834,7 +833,6 @@ androidx.core.text.PrecomputedTextCompat$PrecomputedTextFutureTask$PrecomputedTe
 androidx.browser.customtabs.CustomTabsSessionToken$1
 androidx.lifecycle.LifecycleRegistry$1
 androidx.core.app.ActivityRecreator$3
-com.powerappsportals.saicappr.twa.BuildConfig
 androidx.core.widget.TintableCompoundButton
 androidx.browser.trusted.TrustedWebActivityServiceConnection$NotificationsEnabledArgs:
     public android.os.Bundle toBundle()
@@ -845,8 +843,6 @@ androidx.core.widget.TextViewCompat$AutoSizeTextType
 androidx.annotation.NavigationRes
 androidx.core.view.GestureDetectorCompat$GestureDetectorCompatImplBase$GestureHandler
 androidx.core.view.accessibility.AccessibilityNodeInfoCompat
-com.powerappsportals.saicappr.twa.R
-com.powerappsportals.saicappr.twa.R$mipmap
 androidx.browser.trusted.sharing.ShareTarget:
     public static androidx.browser.trusted.sharing.ShareTarget fromBundle(android.os.Bundle)
     public static final java.lang.String KEY_ACTION
@@ -867,6 +863,7 @@ androidx.browser.R$color
 androidx.core.view.WindowInsetsCompat
 androidx.core.view.LayoutInflaterFactory
 androidx.annotation.BoolRes
+com.powerappsportals.saicappr.twa1.R$raw
 androidx.core.text.TextDirectionHeuristicsCompat$TextDirectionAlgorithm
 com.google.androidbrowserhelper.R$layout
 androidx.core.app.NotificationBuilderWithBuilderAccessor
@@ -898,6 +895,7 @@ androidx.browser.customtabs.CustomTabsIntent$Builder:
     public androidx.browser.customtabs.CustomTabsIntent$Builder setStartAnimations(android.content.Context,int,int)
     public androidx.browser.customtabs.CustomTabsIntent$Builder setExitAnimations(android.content.Context,int,int)
     public androidx.browser.customtabs.CustomTabsIntent$Builder setDefaultColorSchemeParams(androidx.browser.customtabs.CustomTabColorSchemeParams)
+com.powerappsportals.saicappr.twa1.R$xml
 androidx.core.view.InputDeviceCompat
 androidx.browser.customtabs.CustomTabsIntent$ShareState
 androidx.core.app.AppLaunchChecker
@@ -913,6 +911,7 @@ androidx.lifecycle.SingleGeneratedAdapterObserver:
     void <init>(androidx.lifecycle.GeneratedAdapter)
     public void onStateChanged(androidx.lifecycle.LifecycleOwner,androidx.lifecycle.Lifecycle$Event)
     private final androidx.lifecycle.GeneratedAdapter mGeneratedAdapter
+com.powerappsportals.saicappr.twa1.R$layout
 android.support.customtabs.trusted.ITrustedWebActivityService$Stub$Proxy
 androidx.core.view.OnApplyWindowInsetsListener
 androidx.core.content.pm.PermissionInfoCompat$ProtectionFlags
@@ -989,6 +988,7 @@ androidx.core.text.PrecomputedTextCompat$Params
 androidx.browser.customtabs.CustomTabsService$Relation
 android.support.customtabs.trusted.ITrustedWebActivityCallback:
     public abstract void onExtraCallback(java.lang.String,android.os.Bundle)
+com.powerappsportals.saicappr.twa1.R$integer
 androidx.core.os.CancellationSignal
 androidx.core.app.NotificationCompat$BadgeIconType
 androidx.browser.browseractions.BrowserActionsFallbackMenuDialog$1
@@ -1004,7 +1004,6 @@ com.google.androidbrowserhelper.trusted.WebViewFallbackActivity:
     private static final java.lang.String KEY_EXTRA_ORIGINS
 com.google.androidbrowserhelper.R$style
 androidx.core.provider.SelfDestructiveThread$2
-com.powerappsportals.saicappr.twa.R$dimen
 androidx.core.graphics.TypefaceCompatApi26Impl
 androidx.core.app.JobIntentService$CommandProcessor
 androidx.core.view.DragStartHelper$2
@@ -1070,6 +1069,7 @@ com.google.androidbrowserhelper.trusted.TwaSharedPreferencesManager:
 androidx.core.text.TextDirectionHeuristicsCompat$AnyStrong
 androidx.concurrent.futures.CallbackToFutureAdapter$SafeFuture$1
 androidx.core.view.accessibility.AccessibilityViewCommand$MoveAtGranularityArguments
+com.powerappsportals.saicappr.twa1.R
 com.google.androidbrowserhelper.trusted.NotificationPermissionRequestActivity:
     private static final java.lang.String TAG
     static final java.lang.String KEY_PERMISSION_STATUS
@@ -1263,7 +1263,6 @@ com.google.androidbrowserhelper.trusted.ChromeLegacyUtils:
 androidx.core.graphics.drawable.RoundedBitmapDrawableFactory
 androidx.core.content.pm.ShortcutManagerCompat
 androidx.lifecycle.LifecycleRegistry
-com.powerappsportals.saicappr.twa.R$drawable
 androidx.core.database.sqlite.SQLiteCursorCompat
 androidx.browser.browseractions.BrowserActionsFallbackMenuUi$2
 androidx.core.view.PointerIconCompat
@@ -1334,7 +1333,7 @@ com.google.androidbrowserhelper.trusted.LauncherActivityMetadata:
     private static final java.lang.String METADATA_SCREEN_ORIENTATION
     private static final int DEFAULT_COLOR_ID
     private static final int DEFAULT_DIVIDER_COLOR_ID
-com.powerappsportals.saicappr.twa.R$raw
+com.powerappsportals.saicappr.twa1.R$style
 androidx.browser.trusted.ConnectionHolder
 android.support.customtabs.IPostMessageService$Default
 com.google.androidbrowserhelper.trusted.ManageDataLauncherActivity:
@@ -1348,6 +1347,7 @@ androidx.annotation.ColorLong
 androidx.core.app.NotificationCompat$StreamType
 androidx.core.content.res.FontResourcesParserCompat$FontFamilyFilesResourceEntry
 androidx.versionedparcelable.VersionedParcelStream$1
+com.powerappsportals.saicappr.twa1.R$drawable
 androidx.core.view.LayoutInflaterCompat
 com.google.androidbrowserhelper.R$xml
 androidx.core.os.LocaleListCompatWrapper

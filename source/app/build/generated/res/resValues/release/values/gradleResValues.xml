@@ -38,7 +38,7 @@
     <!-- Value from default config. -->
     <string name="orientation" translatable="false">any</string>
     <!-- Value from default config. -->
-    <string name="providerAuthority" translatable="false">com.powerappsportals.saicappr.twa.fileprovider</string>
+    <string name="providerAuthority" translatable="false">com.powerappsportals.saicappr.twa1.fileprovider</string>
     <!-- Value from default config. -->
     <integer name="splashScreenFadeOutDuration">300</integer>
     <!-- Value from default config. -->

@@ -22,7 +22,7 @@
 22     the abbreviated format.
 23-->
 24<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-25    package="com.powerappsportals.saicappr.twa"
+25    package="com.powerappsportals.saicappr.twa1"
 26    android:versionCode="1"
 27    android:versionName="1.0.0.0" >
 28
@@ -56,7 +56,7 @@
 44
 45    <application
 45-->D:\Dynatech\SAICA-PPR\source\app\src\main\AndroidManifest.xml:35:5-184:19
-46        android:name="com.powerappsportals.saicappr.twa.Application"
+46        android:name="com.powerappsportals.saicappr.twa1.Application"
 46-->D:\Dynatech\SAICA-PPR\source\app\src\main\AndroidManifest.xml:36:9-35
 47        android:allowBackup="true"
 47-->D:\Dynatech\SAICA-PPR\source\app\src\main\AndroidManifest.xml:37:9-35
@@ -105,7 +105,7 @@
 70        </activity>
 71        <activity
 71-->D:\Dynatech\SAICA-PPR\source\app\src\main\AndroidManifest.xml:72:9-145:20
-72            android:name="com.powerappsportals.saicappr.twa.LauncherActivity"
+72            android:name="com.powerappsportals.saicappr.twa1.LauncherActivity"
 72-->D:\Dynatech\SAICA-PPR\source\app\src\main\AndroidManifest.xml:72:19-50
 73            android:alwaysRetainTaskState="true"
 73-->D:\Dynatech\SAICA-PPR\source\app\src\main\AndroidManifest.xml:73:13-49
@@ -260,7 +260,7 @@
 149
 150        <service
 150-->D:\Dynatech\SAICA-PPR\source\app\src\main\AndroidManifest.xml:162:9-177:19
-151            android:name="com.powerappsportals.saicappr.twa.DelegationService"
+151            android:name="com.powerappsportals.saicappr.twa1.DelegationService"
 151-->D:\Dynatech\SAICA-PPR\source\app\src\main\AndroidManifest.xml:163:13-46
 152            android:enabled="@bool/enableNotification"
 152-->D:\Dynatech\SAICA-PPR\source\app\src\main\AndroidManifest.xml:164:13-55

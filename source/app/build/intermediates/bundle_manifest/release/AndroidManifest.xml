@@ -22,7 +22,7 @@
      the abbreviated format.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.powerappsportals.saicappr.twa"
+    package="com.powerappsportals.saicappr.twa1"
     android:versionCode="1"
     android:versionName="1.0.0.0" >
 
@@ -43,7 +43,7 @@
     </queries>
 
     <application
-        android:name="com.powerappsportals.saicappr.twa.Application"
+        android:name="com.powerappsportals.saicappr.twa1.Application"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:icon="@mipmap/ic_launcher"
@@ -67,7 +67,7 @@
                 android:value="@string/launchUrl" />
         </activity>
         <activity
-            android:name="com.powerappsportals.saicappr.twa.LauncherActivity"
+            android:name="com.powerappsportals.saicappr.twa1.LauncherActivity"
             android:alwaysRetainTaskState="true"
             android:exported="true"
             android:label="@string/launcherName" >
@@ -146,7 +146,7 @@
         </provider>
 
         <service
-            android:name="com.powerappsportals.saicappr.twa.DelegationService"
+            android:name="com.powerappsportals.saicappr.twa1.DelegationService"
             android:enabled="@bool/enableNotification"
             android:exported="@bool/enableNotification" >
             <meta-data

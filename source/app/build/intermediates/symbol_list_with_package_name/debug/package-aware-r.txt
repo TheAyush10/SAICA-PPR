@@ -1,4 +1,4 @@
-com.powerappsportals.saicappr.twa
+com.powerappsportals.saicappr.twa1
 attr alpha
 attr font
 attr fontProviderAuthority
@@ -20,6 +20,7 @@ color browser_actions_text_color
 color browser_actions_title_color
 color colorPrimary
 color colorPrimaryDark
+color ic_launcher_background
 color navigationColor
 color navigationColorDark
 color navigationDividerColor
@@ -53,6 +54,7 @@ dimen notification_small_icon_size_as_large
 dimen notification_subtext_size
 dimen notification_top_pad
 dimen notification_top_pad_large_text
+drawable ic_launcher_background
 drawable ic_notification_icon
 drawable ic_site_settings
 drawable notification_action_background
@@ -153,6 +155,8 @@ layout notification_template_icon_group
 layout notification_template_part_chronometer
 layout notification_template_part_time
 mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
 raw web_app_manifest
 string appName
 string app_name

@@ -14,7 +14,7 @@ INJECTED from D:\Dynatech\SAICA-PPR\source\app\src\main\AndroidManifest.xml:22:1
 INJECTED from D:\Dynatech\SAICA-PPR\source\app\src\main\AndroidManifest.xml:22:1-185:12
 INJECTED from D:\Dynatech\SAICA-PPR\source\app\src\main\AndroidManifest.xml:22:1-185:12
 	package
-		ADDED from D:\Dynatech\SAICA-PPR\source\app\src\main\AndroidManifest.xml:23:5-48
+		ADDED from D:\Dynatech\SAICA-PPR\source\app\src\main\AndroidManifest.xml:23:5-49
 		INJECTED from D:\Dynatech\SAICA-PPR\source\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Dynatech\SAICA-PPR\source\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -81,7 +81,7 @@ ADDED from D:\Dynatech\SAICA-PPR\source\app\src\main\AndroidManifest.xml:66:13-6
 		ADDED from D:\Dynatech\SAICA-PPR\source\app\src\main\AndroidManifest.xml:68:17-50
 	android:name
 		ADDED from D:\Dynatech\SAICA-PPR\source\app\src\main\AndroidManifest.xml:67:17-83
-activity#com.powerappsportals.saicappr.twa.LauncherActivity
+activity#com.powerappsportals.saicappr.twa1.LauncherActivity
 ADDED from D:\Dynatech\SAICA-PPR\source\app\src\main\AndroidManifest.xml:72:9-145:20
 	android:label
 		ADDED from D:\Dynatech\SAICA-PPR\source\app\src\main\AndroidManifest.xml:74:13-49
@@ -233,7 +233,7 @@ ADDED from D:\Dynatech\SAICA-PPR\source\app\src\main\AndroidManifest.xml:157:13-
 		ADDED from D:\Dynatech\SAICA-PPR\source\app\src\main\AndroidManifest.xml:159:17-50
 	android:name
 		ADDED from D:\Dynatech\SAICA-PPR\source\app\src\main\AndroidManifest.xml:158:17-67
-service#com.powerappsportals.saicappr.twa.DelegationService
+service#com.powerappsportals.saicappr.twa1.DelegationService
 ADDED from D:\Dynatech\SAICA-PPR\source\app\src\main\AndroidManifest.xml:162:9-177:19
 	android:enabled
 		ADDED from D:\Dynatech\SAICA-PPR\source\app\src\main\AndroidManifest.xml:164:13-55
